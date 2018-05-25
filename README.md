@@ -1,2 +1,2 @@
 # urbs
-Ontology design patterns of the urban environment
+Ontology design patterns on the urban environment
